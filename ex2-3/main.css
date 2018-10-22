@@ -1,0 +1,22 @@
+body {
+  background-color: dodgerblue;
+  font-family: "arial";
+}
+
+.info {
+  border: 5px solid goldenrod;
+  background-color: whitesmoke;
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.committ {
+  border: 5px solid goldenrod;
+  background-color: whitesmoke;
+  height: 125px;
+  width: 750px;
+  margin: 20px;
+  padding: 20px;
+}
